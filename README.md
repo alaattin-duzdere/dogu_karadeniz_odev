@@ -1,2 +1,2 @@
-# dogu_karadeniz_odev
+# dogu_karadeniz_odev  - ALAATTİN DÜZDERE -
 dogu_karadeniz_odev
